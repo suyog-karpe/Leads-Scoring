@@ -10,3 +10,9 @@ lead. Moreover, the company also gets leads through past referrals. Once these
 leads are acquired, employees from the sales team start making calls, writing 
 emails, etc. Through this process, some of the leads get converted while most do 
 not. The typical lead conversion rate at X education is around 30%.
+
+
+
+Contributing to Persistents’s Lead Scoring Project, a Generative Data Science project focused on processing, generation, and Model Evaluation for an Education Company to provide promising leads.
+Implementing a model that has the highest accuracy among others and explored different features in this project with guidance from our mentor Mr.Akash Hajari.
+Generating a powerful tool and reportung our findings to the senior team to move forward with the application for the same.
